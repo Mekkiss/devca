@@ -1,0 +1,23 @@
+/* XPM */
+static char * icoclear_xpm[] = {
+"16 16 4 1",
+"  c black",
+". c yellow",
+"X c gray100",
+"o c None",
+"oooooooooooooooo",
+"o.o.o.oooooooooo",
+"oo...      ooooo",
+"o..X..XXXX  oooo",
+"oo...XXXXX X ooo",
+"o.o.X.XXXX    oo",
+"ooo XXXXXXXXX oo",
+"ooo XXXXXXXXX oo",
+"ooo XXXXXXXXX oo",
+"ooo XXXXXXXXX oo",
+"ooo XXXXXXXXX oo",
+"ooo XXXXXXXXX oo",
+"ooo XXXXXXXXX oo",
+"ooo XXXXXXXXX oo",
+"ooo           oo",
+"oooooooooooooooo"};

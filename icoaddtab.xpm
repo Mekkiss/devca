@@ -1,0 +1,23 @@
+/* XPM */
+static char * icoaddtab_xpm[] = {
+"16 16 4 1",
+"  c black",
+". c navy",
+"X c gray100",
+"o c None",
+"o............ooo",
+"o.o..o..o..o.ooo",
+"o............ooo",
+"o.XXXXXXXXXX.ooo",
+"o.X  X  X  X.ooo",
+"o.XXXXXXXXXX.ooo",
+" ............ooo",
+" XXXXXXXXXX oooo",
+" X  X  X  X oooo",
+" XXXXXXXXXX oooo",
+"            o oo",
+"ooooooooooooo oo",
+"ooooooooooo     ",
+"ooooooooooooo oo",
+"ooooooooooooo oo",
+"oooooooooooooooo"};

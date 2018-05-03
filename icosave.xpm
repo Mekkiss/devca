@@ -1,0 +1,22 @@
+/* XPM */
+static char * icosave_xpm[] = {
+"16 16 3 1",
+"  c black",
+". c #808000",
+"X c None",
+"XXXXXXXXXXXXXXXX",
+"X              X",
+"X . XXXXXXXX X X",
+"X . XXXXXXXX   X",
+"X . XXXXXXXX . X",
+"X . XXXXXXXX . X",
+"X . XXXXXXXX . X",
+"X . XXXXXXXX . X",
+"X ..        .. X",
+"X ............ X",
+"X ..         . X",
+"X ..      XX . X",
+"X ..      XX . X",
+"X ..      XX . X",
+"XX             X",
+"XXXXXXXXXXXXXXXX"};
